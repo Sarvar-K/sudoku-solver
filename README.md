@@ -1,7 +1,9 @@
 # Sudoku-solver
 
 An algorithm that solves Xsudoku puzzle
+
 //---------------------------------------
+
 Алгоритм для решения паззлов Xsudoku
 
 
